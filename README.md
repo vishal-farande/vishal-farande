@@ -33,12 +33,11 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - 👋 Hi, I’m @vishal
 - 👀 I’m interested in AI.
 - 🌱 I’m currently pursuing CSE from KLETU.
-<!--- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.--->
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I read tech articles and books.
 - 💞️ I'm also interested in collaborating on creative projects and ideas. Let's discuss what you have in mind and see how we can work together to make it happen!
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vishal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedlin.com/in/vishalfarande)
-
+<!--- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.--->
 
 <!---Adding Languages and Tools--->
 <div align="center">
