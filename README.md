@@ -32,7 +32,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - 👋 Hi, I’m @vishal
 - 👀 I’m interested in AI.
-- 🌱 I’m currently pursuing CSE from KLETU.
+- :man_student: I’m currently pursuing CSE from KLETU.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I read tech articles and books.
 - 💞️ I'm also interested in collaborating on creative projects and ideas. Let's discuss what you have in mind and see how we can work together to make it happen!
