@@ -59,3 +59,13 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vishal-farande&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vishal-farande&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-farande&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vishal-farande&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
