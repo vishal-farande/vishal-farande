@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 ### :man_technologist: About Me :
 I am a Developer and AI Enthusiastic<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :wave: Hi, I’m @vishal
+- :wave: Hey, I’m @vishal
 - 👀 I’m interested in AI.
 - :man_student: I’m currently pursuing CSE from KLETU.
 - :seedling: Exploring Technical Content Writing.
