@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ### :man_technologist: About Me :
-I am a Developer and AI Enthusiastic<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Developer & AI Enthusiastic<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :wave: Hey, I’m @vishal
 - 👀 I’m interested in AI.
