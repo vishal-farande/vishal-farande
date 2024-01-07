@@ -64,7 +64,7 @@ I am a Developer & AI Enthusiastic<img src="https://media.giphy.com/media/WUlplc
 </div>
 
 
- <img src="https://komarev.com/ghpvc/?username=vishal-farande&style=flat-square&color=blue" alt=""/> 
+ <!-- <img src="https://komarev.com/ghpvc/?username=vishal-farande&style=flat-square&color=blue" alt=""/> -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vishal-farande&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
