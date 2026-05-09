@@ -31,16 +31,24 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-### :man_technologist: About Me :
-I am a Developer & AI Enthusiastic<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :wave: Hey, I’m @vishal
-- 👀 I’m interested in AI.
-- :man_student: I’m currently pursuing CSE from KLETU.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I read tech articles and books.
-- 💞️ I'm also interested in collaborating on creative projects and ideas. Let's discuss what you have in mind and see how we can work together to make it happen!
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vishal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishalfarande)
+# Hi, I'm Vishal 👋
+
+**Backend Engineer** | Java & Spring Boot Enthusiast | System Design Learner
+
+I'm a software engineer passionate about building **scalable backend systems** and **enterprise-grade applications**. I focus on clean architecture, API design and understanding how large scale systems work internally.
+
+---
+
+### :man_technologist: About Me :
+
+I enjoy solving backend and system level problems with practical implementations. My philosophy centers on writing **maintainable, scalable code** and building systems that can grow with business demands. I am particularly interested in microservices architecture, REST API design and distributed systems concepts.
+
+Currently exploring how to design production ready systems and optimize performance at scale.
+
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vishal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishalfarande)
+
+---
 <!--- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.--->
 
 <!---Adding Languages and Tools--->
@@ -68,16 +76,110 @@ I am a Developer & AI Enthusiastic<img src="https://media.giphy.com/media/WUlplc
 </div>
 
 
- <!-- <img src="https://komarev.com/ghpvc/?username=vishal-farande&style=flat-square&color=blue" alt=""/> -->
+ <!-- <img src="https://komarev.com/ghpvc/?username=vishal-farande&style=flat-square&color=blue" alt=""/> 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vishal-farande&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vishal-farande&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-farande&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-->
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vishal-farande&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
---
+
 [![](https://visitcount.itsvg.in/api?id=vishal-farande&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+# Hi, I'm Vishal Farande 👋
+
+**Backend Engineer** | Java & Spring Boot Enthusiast | System Design Learner
+
+I'm a software engineer passionate about building **scalable backend systems** and **enterprise-grade applications**. I focus on clean architecture, API design, and understanding how large-scale systems work internally.
+
+---
+
+## 🎯 About Me
+
+I enjoy solving backend and system-level problems with practical implementations. My philosophy centers on writing **maintainable, scalable code** and building systems that can grow with business demands. I'm particularly interested in microservices architecture, REST API design, and distributed systems concepts.
+
+Currently exploring how to design production-ready systems and optimize performance at scale.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+### **Core Competencies**
+- **Backend Development** - Spring Boot, Spring MVC, REST APIs
+- **Architecture** - Microservices, Clean Architecture, System Design
+- **Databases** - SQL, relational database design
+- **Tools & Platforms** - Git, GitHub, Maven, API development
+
+---
+
+## 📚 Currently Exploring
+
+- 🏗️ Scalable backend system design
+- 🏢 Enterprise application architecture patterns
+- ⚡ Performance optimization techniques
+- 🌐 Distributed systems concepts
+- 📦 Building production-ready personal projects
+
+---
+
+## 🚀 Featured Projects
+
+### **Task Tracker with Deadlines**
+A personal productivity application built with Spring Boot for managing tasks, reminders, and deadlines.
+- *Technologies:* Java, Spring Boot, REST APIs, Database
+
+### **Enterprise API Services**
+Developed API-driven enterprise services with focus on validation, model mapping, and backend integrations.
+- *Technologies:* Java, Spring Boot, REST APIs, Microservices
+
+---
+
+## 💡 What I Value
+
+✅ **Practical Implementation** - I prefer building real solutions over theoretical discussions  
+✅ **Clean Code** - Focusing on maintainability and scalability  
+✅ **Continuous Learning** - Exploring new patterns and best practices  
+✅ **System Thinking** - Understanding the bigger picture of how applications work  
+✅ **Collaboration** - Thriving in team environments with shared goals  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-farande)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishal-farande&show_icons=true&theme=radical)
+
+---
+-->
+## 🏃 Beyond Code
+
+When I'm not coding, you'll find me:
+- 🏃‍♂️ Running marathons and swimming
+- 🎒 Exploring places around Bengaluru
+- 💪 Staying fit and active
+- 🧠 Learning about system design and architecture
+
+---
+
+**Let's build something amazing together!** 🚀
+
+*Feel free to reach out if you're interested in collaborating on backend projects or discussing system design.*
+
